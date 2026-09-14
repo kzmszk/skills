@@ -14,3 +14,5 @@ collection of useful skills
 
 ## movie
 * [anything2explainer text2animation](https://github.com/Vincentwei1021/anything2explainer)
+
+## others
